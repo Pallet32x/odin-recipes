@@ -1,7 +1,9 @@
 # odin-recipes
 
-I am going to be building a website as part of The Odin Project.
+This is a website containing 3 recipes.
 
-It will feature a home page and several recipe pages which are all interlinked.
+I learnt a lot about Git, specifically remembering to commit often instead of locking in and just making the entire project in one go. This doesn't come naturally to me so I kept having to catch myself and remember to do a big commit, usually after I had finished adding a whole page.
 
-I will update this Readme once it is completed with a reflection of how this project has gone.
+There must be quicker, easier ways to add lots of content to a page, especially copying each ingredient into a list tag which takes a long time. Perhaps there is a way to highlight a line and add the li tag afterwards?
+
+Glad to have completed my first project in TOP, feel like I'm still on easy street though. Worried about when I hit the vertical wall learning curve that I remember reading out in the beginning...
